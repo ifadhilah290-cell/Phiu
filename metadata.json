@@ -1,0 +1,7 @@
+{
+  "name": "Phiu.Id",
+  "description": "A premium and modern game currency top-up platform featuring instant delivery and an AI-powered gaming assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
